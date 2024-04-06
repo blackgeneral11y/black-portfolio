@@ -28,8 +28,8 @@ body {
 }
 
 .container {
-/*     display: flex;
-    justify-content: center; */
+    display: flex;
+    justify-content: center;
     align-items: center;
     margin-top: 20px;
 }
@@ -42,10 +42,10 @@ body {
 }
 
 .btn {
-    display: flex;
-    justify-content: center;
+/*     display: flex;
+    justify-content: center; */
     align-items: center;
-    flex-direction: column;
+/*     flex-direction: column; */
     margin-top: 16px;
 }
 
